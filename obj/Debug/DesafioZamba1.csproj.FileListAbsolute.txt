@@ -1,0 +1,11 @@
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.Form1.resources
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.Properties.Resources.resources
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\DesafioZamba1\bin\Debug\DesafioZamba1.exe.config
+C:\Users\laboratorio\source\repos\DesafioZamba1\bin\Debug\DesafioZamba1.exe
+C:\Users\laboratorio\source\repos\DesafioZamba1\bin\Debug\DesafioZamba1.pdb
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.exe
+C:\Users\laboratorio\source\repos\DesafioZamba1\obj\Debug\DesafioZamba1.pdb
